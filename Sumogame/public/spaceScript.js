@@ -29,8 +29,8 @@ tieImg.src = "images/WinnerN.png";
 var readyin3Img = new Image();
 readyin3Img.src = "images/readyin3.jpg";
 
-/* var readyin2Img = new Image();
-readyin2Img.src = "images/readyin2.jpg"; */
+var readyin2Img = new Image();
+readyin2Img.src = "images/readyin2.jpg"; 
 
 var readyin1Img = new Image();
 readyin1Img.src = "images/readyin1.jpg";
@@ -76,9 +76,9 @@ function loadInitialCanvas()
 		setTimeout(function(){
 			ctx.drawImage(readyin3Img, 0,0, canvas.width, canvas.height);
 		}, 0);
-		/* setTimeout(function(){
+		 setTimeout(function(){
 			ctx.drawImage(readyin2Img, 0,0, canvas.width, canvas.height);
-		}, 1000); */
+		}, 1000); 
 		setTimeout(function(){
 			ctx.drawImage(readyin1Img, 0,0, canvas.width, canvas.height);
 		}, 2000);
