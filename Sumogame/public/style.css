@@ -1,0 +1,25 @@
+canvas {
+    
+    padding-left: 0; 
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 800px;
+}  
+
+
+div {
+  color: #fcf4f4;
+  background-color: #5995DA;
+  font-weight: bold;
+  font-size: 15px;
+  font-family:"Verdana";
+  padding: 5px;
+  text-align: center;
+  border: 2px 
+  solid #5D6063;
+  border-radius: 5px;
+}
+
+body {background-color: rgb(255,255,255)}
