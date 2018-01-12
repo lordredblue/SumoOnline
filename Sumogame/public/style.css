@@ -8,18 +8,16 @@ canvas {
     width: 800px;
 }  
 
-
-div {
-  color: #fcf4f4;
-  background-color: #5995DA;
-  font-weight: bold;
-  font-size: 15px;
-  font-family:"Verdana";
-  padding: 5px;
+.container {
+  position: relative;
   text-align: center;
-  border: 2px 
-  solid #5D6063;
-  border-radius: 5px;
+}
+
+.centered{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-59%, -50%);
 }
 
 body {background-color: rgb(255,255,255)}
