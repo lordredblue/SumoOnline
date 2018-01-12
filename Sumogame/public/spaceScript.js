@@ -18,13 +18,13 @@ var backgroundImg = new Image();
 backgroundImg.src = "images/Background.png";
 
 var blueWinsImg = new Image();
-blueWinsImg.src = "images/WinnerB.png";
+blueWinsImg.src = "images/WinnerBN.png";
 
 var redWinsImg = new Image();
-redWinsImg.src = "images/WinnerR.png";
+redWinsImg.src = "images/WinnerRN.png";
 
 var tieImg = new Image();
-tieImg.src = "images/WinnerN.png";
+tieImg.src = "images/WinnerNN.png";
 
 var readyin3Img = new Image();
 readyin3Img.src = "images/readyin3.jpg";
