@@ -1,5 +1,5 @@
 # Sumo
-HTML5 Sumo Wrestling game, now adapted for online multiplayer. Go to shastrihm.github.io/
+HTML5 Sumo Wrestling game, now adapted for online multiplayer. Go to shastrihm.github.io/SumoOnline
 
 Designed by Wenjing Ma
 
